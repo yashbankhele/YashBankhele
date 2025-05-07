@@ -46,9 +46,3 @@
 
 📩 **Email:** [shreeyashbankhele198@gmail.com](mailto:shreeyashbankhele198@gmail.com)
 
----
-
-## ✨ Fun GIF Footer :
-
-![Design Thinking](https://media.giphy.com/media/JlUhltyMO3Z0FdpNBw/giphy.gif)
-
