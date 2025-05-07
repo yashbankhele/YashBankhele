@@ -48,7 +48,7 @@
 
 ---
 
-## ✨ Fun GIF Footer (updated):
+## ✨ Fun GIF Footer :
 
-![Design Thinking](https://media.giphy.com/media/3o7aD2sa6xJprRjVXa/giphy.gif)
+![Design Thinking](https://media.giphy.com/media/JlUhltyMO3Z0FdpNBw/giphy.gif)
 
