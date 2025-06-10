@@ -44,5 +44,5 @@
 
 ## 📬 Contact Me
 
-📩 **Email:** [shreeyashbankhele198@gmail.com](mailto:yashbankhele198@gmail.com)
+📩 **Email:** [yashbankhele198@gmail.com](mailto:yashbankhele198@gmail.com)
 
