@@ -38,8 +38,7 @@
 
 - AI & Machine Learning 🤖  
 - Data Science 📊  
-- UI/UX with Figma & Adobe XD 🎨  
-- React + Node.js 🌐  
+- UI/UX with Figma 🎨  
 
 ---
 
