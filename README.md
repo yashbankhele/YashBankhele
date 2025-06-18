@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yash Bankhele
 
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=false&vCenter=true&width=435&lines=AI+%26+DS+Student+🧠;UI%2FUX+Designer+%F0%9F%8E%A8;Future+Full-Stack+Developer+%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=🎓+AI+%26+Data+Science+Student;🎨+UI%2FUX+Design+Enthusiast;💻+Future+Full-Stack+Developer;🚀+Learning+Something+New+Every+Day)
+
 
 ![GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
