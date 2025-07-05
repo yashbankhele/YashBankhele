@@ -3,8 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🎓+AI+%26+Data+Science+Student;🎨+UI%2FUX+Design+Enthusiast;💻+Future+Full-Stack+Developer;🚀+Learning+Something+New+Every+Day)
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
-<img src="[https://media.giphy.com/media/UqZ8xZ9iC1a8zex3WM/giphy.gif](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)" width="100%" />
-
 
 ---
 
