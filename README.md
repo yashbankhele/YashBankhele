@@ -40,7 +40,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YashBankhele&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBankhele&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBankhele&theme=tokyonight" width="48%" />
 </p>
 
 ---
