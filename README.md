@@ -1,25 +1,62 @@
-# Yash Bankhele
+# 👋 Hi, I'm Yash Bankhele  
 
-I'm an **AI & Data Science student** with a passion for **UI/UX design**. I'm currently focused on developing my skills in full-stack web development and exploring the fundamentals of machine learning and generative AI.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🎓+AI+%26+Data+Science+Student;🎨+UI%2FUX+Design+Enthusiast;💻+Aspiring+Full-Stack+Developer;🚀+Lifelong+Learner)  
 
----
-
-### **Skills & Tools**
-`Python` `HTML` `CSS` `JavaScript` `Figma` `GitHub`
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />  
 
 ---
 
-### **My GitHub Activity**
+### 👨‍💻 About Me  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBankhele&show_icons=true&theme=tokyonight" width="47%" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBankhele&theme=tokyonight" width="50%" alt="Yash's GitHub Streak" />
-</div>
+🎓 I’m an **AI & Data Science student** with a strong passion for **UI/UX design** and **full-stack development**.  
+💡 Exploring **Machine Learning, Deep Learning, and Web Development** while designing intuitive digital experiences.  
+🛠️ I love blending **technology & creativity** to build impactful, user-friendly solutions.  
+📚 Continuously learning and evolving every single day.  
 
 ---
 
-### **Connect with Me**
+## 🚀 Skills & Tools  
 
-- **LinkedIn:** [Yash Bankhele](https://www.linkedin.com/in/YashBankhele)
-- **Portfolio:** [yashbankhele.github.io](https://yashbankhele.github.io/)
-- **Email:** [yashbankhele198@gmail.com](mailto:yashbankhele198@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>  
+
+---
+
+## 📚 Currently Exploring  
+
+- 🌐 **Full-Stack Web Development (MERN Stack)**  
+- 🤖 **Machine Learning Algorithms**  
+- 🧠 **Deep Learning Fundamentals**  
+- 🎨 **Advanced UI/UX Design with Figma**  
+- 💬 **Prompt Engineering & Generative AI**  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBankhele&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBankhele&theme=tokyonight" width="50%" />
+</p>  
+
+---
+
+## 🔗 Connect with Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/YashBankhele" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yashbankhele.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="mailto:yashbankhele198@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>  
