@@ -1,6 +1,6 @@
 # Yash Bankhele
 
-"I'm a passionate AI & Data Science student focused on turning data into valuable insights. I'm always learning new technologies and methods to solve real-world problems."
+I'm a passionate AI & Data Science student focused on turning data into valuable insights. I'm always learning new technologies and methods to solve real-world problems.
 
 ---
 
