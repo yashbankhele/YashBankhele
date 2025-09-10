@@ -1,6 +1,6 @@
 # Yash Bankhele
 
-An aspiring **AI & Data Science professional** dedicated to leveraging data to create meaningful insights and solutions. I am committed to mastering the technologies and methodologies that drive innovation in this field.
+"I'm a passionate AI & Data Science student focused on turning data into valuable insights. I'm always learning new technologies and methods to solve real-world problems."
 
 ---
 
