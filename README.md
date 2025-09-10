@@ -1,59 +1,37 @@
-# 👋 Hi, I'm Yash Bankhele
+# Hi, I'm Yash Bankhele 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🎓+AI+%26+Data+Science+Student;🎨+UI%2FUX+Design+Enthusiast;💻+Future+Full-Stack+Developer;🚀+Learning+Something+New+Every+Day)
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+I'm a passionate **AI & Data Science student** with a keen interest in **UI/UX design**. My focus is on developing smart, user-friendly digital products by blending technical skills with creative design principles. I am currently expanding my knowledge in **machine learning**, **web development**, and **generative AI tools**.
 
 ---
 
-🎓 I'm a passionate **AI & Data Science student** with a creative mind for **UI/UX design**.  
-💡 Exploring **Machine Learning, Web Development**, and designing clean user experiences.  
-🛠️ Blending tech & creativity to build smart, user-friendly digital products.  
-📚 Always curious and committed to learning something new every day.
+### 🚀 Skills
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
-## 🚀 Skills & Tools
+### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBankhele&show_icons=true&theme=tokyonight" width="47%" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBankhele&theme=tokyonight" width="50%" alt="Yash's GitHub Streak" />
+</div>
 
 ---
 
-## 📚 Currently Learning
+### 🔗 Let's Connect
 
-- 🌐 Full-Stack Web Development (MERN Stack)
-- 🤖 Machine Learning Algorithms
-- 🧠 Deep Learning Fundamentals
-- 🎨 Advanced UI/UX Design with Figma
-- 💬 Prompt Engineering and Generative AI tools
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBankhele&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBankhele&theme=tokyonight" width="50%" />
-</p>
-
----
-## 🔗 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/YashBankhele" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://yashbankhele.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="mailto:yashbankhele198@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/YashBankhele" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://yashbankhele.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:yashbankhele198@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
