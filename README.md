@@ -4,11 +4,32 @@ I'm a passionate AI & Data Science student focused on turning data into valuable
 
 ---
 
-### **Skills & Technologies**
+### Skills & Technologies
 
-- **Programming Languages:** Python, JavaScript
-- **Web Technologies:** HTML, CSS
-- **Tools & Platforms:** Figma, Git, GitHub
+- **Programming Languages:** Python, JavaScript  
+- **Web Technologies:** HTML, CSS  
+
+- **Data Science & Analytics:**
+  - Data Analysis & Data Cleaning  
+  - Exploratory Data Analysis (EDA)  
+  - Data Visualization  
+  - Basic Machine Learning Concepts  
+
+- **Libraries & Frameworks:**
+  - NumPy  
+  - Pandas  
+  - Matplotlib  
+  - Seaborn  
+
+- **Databases & Querying:**
+  - SQL (Basics)  
+
+- **Tools & Platforms:**
+  - Jupyter Notebook  
+  - Google Colab  
+  - Excel  
+  - Git, GitHub  
+
 
 ---
 
