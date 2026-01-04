@@ -25,7 +25,8 @@ I'm a passionate AI & Data Science student focused on turning data into valuable
   - SQL (Basics)  
 
 - **Tools & Platforms:**
-  - Jupyter Notebook  
+  - Jupyter Notebook
+  - Power BI  
   - Google Colab  
   - Excel  
   - Git, GitHub  
