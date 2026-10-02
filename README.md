@@ -48,4 +48,4 @@ My current learning and project work are concentrated on:
 
 - **LinkedIn:** [Yash Bankhele](https://www.linkedin.com/in/YashBankhele)
 - **Portfolio:** [yashbankhele.github.io](https://yashbankhele.github.io/)
-- **Email:** [yashbankhele198@gmail.com](mailto:yashbankhele198@gmail.com)
+- **Email:** [yashbankhele.work@gmail.com](mailto:yashbankhele.work@gmail.com)
