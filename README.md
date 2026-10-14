@@ -127,7 +127,7 @@ MORE PROJECTS (uncomment this block when you have extra projects)
 
 ## 🎓 Education & Certifications
 
-**B.E. in Artificial Intelligence & Data Science** (2022 – 2026), Jaihind College of Engineering, Kuran–Pune | CGPA: **8.06 / 10**
+**B.E. in Artificial Intelligence & Data Science** (2022 – 2026)
 
 - Data Analysis with Python, *IBM (Cognitive Class)*
 - SQL and Relational Databases 101, *IBM (Cognitive Class)*
